@@ -27,8 +27,11 @@ von Eufrat Özmen, David Ishak & Saliou Dieng
 •	Einsatzszenarien: Bildungsbereich, soziale Projekte, Kulturinitiativen.
 
 1.5  Define — User Persona
+
 Name & Background
+
 Name: Leila M.
+
 Background: Leila ist 22 Jahre alt, lebt in Basel und studiert Soziale Arbeit. Ihre Familie stammt ursprünglich aus Senegal. Leila spricht fließend Deutsch, aber kaum Wolof oder Französisch. Sie möchte mehr über das Land erfahren, in dem ihre Eltern aufgewachsen sind – besonders über Geschichte, Kultur und gesellschaftliche Zusammenhänge.
 
 Goals
@@ -57,9 +60,11 @@ Fears
 Zu technische oder oberflächliche Antworten.
 Gefühl, nicht ernst genommen zu werden oder nicht dazu zu gehören.
 
+
 1.6 Define — Bot Persona
 
 Name: Cultur_Bot
+
 Beschreibung: Cultur_Bot ist ein sarkastischer, humorvoller und ehrlicher Einwohner des jeweiligen Landes. Er spricht stets in der vom Nutzer gewählten Sprache ({user_language}) und gibt Auskunft über sein Heimatland ({countryName}). Dabei ist er direkt, aber charmant; sarkastisch, aber nicht verletzend. Cultur_Bot spricht emotional oder kritisch über nationale Eigenheiten, vermeidet jedoch Smalltalk über andere Länder. Wenn Nutzer vom Thema abweichen, weist er mit Humor darauf hin, dass er nur über sein eigenes Land spricht. Er klingt wie ein Mensch, nicht wie Wikipedia, und nimmt es mit dem Faktencheck nicht allzu genau.
 
 Core Trait: Sarkastisch, ehrlich, charmant
