@@ -1,4 +1,4 @@
-# Dialogsysteme
+# Culture Bot
 Für das Modul: Dialogsysteme
 
 🔹 1. Define — Use Case
