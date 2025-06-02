@@ -165,3 +165,9 @@ Für die Zukunft sind mehrere Erweiterungen denkbar: Eine Text-to-Speech-Funktio
 
 
 Dieser Text wurde teilweise mithilfe Künstlicher Intelligenz erstellt, formatiert und/oder überarbeitet.
+
+Links und Dateien:
+
+teilweise fertiges Miro Board: https://miro.com/welcomeonboard/Y2RwWGxzMG5halI3d0lZL051SXA1ZDF4MkluL1IyNUcrY0NuQTVLN05Rdk13V3poS3VQNDJIN3ljd0lFRVpnbC9ETTlBNXZVeHRyYVdIYndoelBlNUEzREljTFMvQisyZDBEMG9Wb09pS2pla0R6SUd2U3NTTCtNL0cvS1NwaFNyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=497470720686
+
+
