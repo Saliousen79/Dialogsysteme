@@ -162,10 +162,7 @@ teilweise fertiges Miro Board: https://miro.com/welcomeonboard/Y2RwWGxzMG5halI3d
 Voiceflow worklow:
 ![voiceflow-export-1748860871957](https://github.com/user-attachments/assets/161b5618-86ce-45e5-bea2-fa17d49d2201)
 
-Voiceflow link:
+Voiceflow link: https://creator.voiceflow.com/project/680f803b8c3d328c9c0ea9f9/canvas/64dbb6696a8fab0013dba194
 
-
-
-![voiceflow-export-1748860871957](https://github.com/user-attachments/assets/4171c7ce-bf5a-4053-ba70-9256ac3cde4f)
 
 
