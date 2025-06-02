@@ -89,9 +89,9 @@ Beschreibung: Leila interessiert sich für ihr Herkunftsland Senegal und nutzt d
 🔹 3. Architect — Bot Architecture
 1. Data Need
    
-•	Länderinfos via RestCountries API: https://restcountries.com/v3.1/all
+•	Länderinfos via RestCountries API
 
-•	Themeninfos via Wikipedia API: [https://en.wikipedia.org/api/rest_v1/page/summary
+•	Themeninfos via Wikipedia API
 
 •	Userdaten: Sprache & Länderwahl (für Sessionsteuerung)
 •	Optional: Nutzungsverhalten für Analytics
@@ -132,7 +132,7 @@ a) RestCountries API
 •	Funktion: Bereitstellung strukturierter Basisdaten wie Bevölkerung, Hauptstadt, Sprachen und Flagge.
 •	Anwendung: Die Daten werden über GET-Requests abgerufen, in Variablen gespeichert (z. B. {countryInfo}) und in den Antworten verwendet.
 b) Wikipedia API
-•	Quelle: https://en.wikipedia.org/w/api.php
+•	Quelle: https://en.wikipedia.org/api/rest_v1/page/summary
 •	Funktion: Abfrage von themenspezifischen Inhalten (z. B. Politik, Wirtschaft, Geschichte, Kultur).
 •	Die Inhalte werden thematisch gefiltert, an die KI übergeben und zu sprachlich ansprechenden Texten verarbeitet.
 
