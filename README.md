@@ -1,6 +1,6 @@
 # Culture Bot
-Für das Modul: Dialogsysteme
-
+Für das Modul der FHNW: Dialogsysteme
+von Eufrat Özmen, David Ishak & Saliou Dieng
 🔹 1. Define — Use Case
 
 1.1 Problem
