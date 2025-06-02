@@ -79,21 +79,10 @@ Behaviour & Service
 🔹 2. Design — Sample Dialogue
 Beschreibung: Leila interessiert sich für ihr Herkunftsland Senegal und nutzt den Chatbot auf Deutsch, um sich gezielt über Kultur, Geschichte und Wirtschaft zu informieren.
 
-BOT: Welcome! Which language do you prefer?	
-Leila: German	
-BOT: Über welches Land möchtest du gerne mehr Informationen erhalten?	
-Leila: Senegal	
-BOT: Senegal ist ein afrikanisches Land… Möchtest du mehr erfahren oder ein anderes Land wählen?	
-Leila: Mehr Informationen	
-BOT: Was interessiert dich: Politik, Geschichte, Wirtschaft oder Kultur (Buttons)
-Leila: Kultur (Button)
-BOT: Senegal ist kulturell sehr vielfältig… Möchtest du ein anderes Thema wählen oder beenden? 
-Leila: Wirtschaft (Button)
-BOT: Die Wirtschaft Senegals ist stark diversifiziert… Noch Interesse an Geschichte, Politik oder einem anderen Land?	
-Leila: Geschichte (Button)
-BOT: Die Geschichte Senegals reicht bis in die Steinzeit zurück… Noch Fragen?	
-Leila: Beenden	(Button)
-BOT: Schön, dass du da warst! Bis bald.
+<img width="588" alt="grafik" src="https://github.com/user-attachments/assets/cca05849-7ff0-4379-8fc5-39205b8bb987" />
+
+
+
 
 
 🔹 3. Architect — Bot Architecture
@@ -170,9 +159,10 @@ Links und Dateien:
 
 teilweise fertiges Miro Board: https://miro.com/welcomeonboard/Y2RwWGxzMG5halI3d0lZL051SXA1ZDF4MkluL1IyNUcrY0NuQTVLN05Rdk13V3poS3VQNDJIN3ljd0lFRVpnbC9ETTlBNXZVeHRyYVdIYndoelBlNUEzREljTFMvQisyZDBEMG9Wb09pS2pla0R6SUd2U3NTTCtNL0cvS1NwaFNyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=497470720686
 
-Voiceflow: 
+Voiceflow worklow:
 ![voiceflow-export-1748860871957](https://github.com/user-attachments/assets/161b5618-86ce-45e5-bea2-fa17d49d2201)
 
+Voiceflow link:
 
 
 
