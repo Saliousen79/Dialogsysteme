@@ -87,19 +87,25 @@ Beschreibung: Leila interessiert sich für ihr Herkunftsland Senegal und nutzt d
 
 🔹 3. Architect — Bot Architecture
 1. Data Need
-•	Länderinfos via RestCountries API
-•	Themeninfos via Wikipedia API
+   
+•	Länderinfos via RestCountries API: https://restcountries.com/v3.1/all
+
+•	Themeninfos via Wikipedia API: https://en.wikipedia.org/api/rest_v1/page/summary/
+
 •	Userdaten: Sprache & Länderwahl (für Sessionsteuerung)
 •	Optional: Nutzungsverhalten für Analytics
-2. Channel / UI
+
+3. Channel / UI
 •	Voiceflow Web-Chat
 •	Vollständig responsiv (Desktop + Mobile)
 •	Optionale Button-Navigation für Themenwahl und Entscheidungspfade
-3. Framework
+
+4. Framework
 •	Voiceflow zur Erstellung und Logikstruktur
 •	KI-Modul innerhalb Voiceflow (Pio’s Agent) für natürliche Textgenerierung
 •	Sprachauswahl-Logik via Code-Block (Javascript)
-4. Action
+
+5. Action
 •	GET-Requests an APIs zur Datenbeschaffung (z. B. Hauptstadt, Bevölkerung, Politik)
 •	Ausgabe von personalisierten Antworten über strukturiertes Prompting
 •	Dynamische Flows durch Button-Trigger
