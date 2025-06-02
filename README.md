@@ -139,7 +139,7 @@ Dritte Version: Einführung von Themen-Buttons
 Zur Verbesserung der Benutzerführung wurden Auswahl-Buttons eingeführt. Nach der Länderwahl kann die Nutzerin oder der Nutzer aus den Themen Politik, Wirtschaft, Geschichte, Kultur, "anderes Land" oder "Beenden" wählen. Diese Entscheidung trug wesentlich zur Klarheit und Struktur im Gesprächsverlauf bei und ermöglichte eine gezielte Steuerung der Nutzerinteraktion.
 
 Vierte Version:  Mehrsprachigkeit
-Im weiteren Verlauf wurde eine Sprachwahl am Anfang des Gesprächs eingebaut. Zur Verfügung stehen Deutsch, Englisch und Französisch. Die Sprachwahl wird in einer Variable gespeichert und beeinflusst den gesamten weiteren Gesprächsverlauf.
+Im weiteren Verlauf wurde eine Sprachwahl am Anfang des Gesprächs eingebaut. Zur Verfügung stehen Deutsch, Englisch und Französisch, Albanisch, Spanisch, Wolof, Italienisch, Portugiesisch, Schweizerdeutsch und Aramäisch. Die Sprachwahl wird in einer Variable gespeichert und beeinflusst den gesamten weiteren Gesprächsverlauf.
 Diese Funktion brachte einerseits eine breitere Zielgruppenansprache und bessere Zugänglichkeit, führte andererseits aber zu einem erhöhten Pflegeaufwand bei der Benutzeroberfläche, da Inhalte mehrfach übersetzt und gepflegt werden müssen.
 
 4.2 Technische Umsetzung in Voiceflow
