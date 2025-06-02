@@ -90,7 +90,7 @@ Beschreibung: Leila interessiert sich für ihr Herkunftsland Senegal und nutzt d
    
 •	Länderinfos via RestCountries API: https://restcountries.com/v3.1/all
 
-•	Themeninfos via Wikipedia API: https://en.wikipedia.org/api/rest_v1/page/summary/
+•	Themeninfos via Wikipedia API: [https://en.wikipedia.org/api/rest_v1/page/summary
 
 •	Userdaten: Sprache & Länderwahl (für Sessionsteuerung)
 •	Optional: Nutzungsverhalten für Analytics
